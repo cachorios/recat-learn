@@ -48,7 +48,6 @@ export default function Form({
 					</div>
 				</div>
 
-				{/* Invoice Amount */}
 				<div className="mb-4">
 					<label htmlFor="amount" className="mb-2 block text-sm font-medium">
 						Choose an amount
@@ -68,7 +67,6 @@ export default function Form({
 					</div>
 				</div>
 
-				{/* Invoice Status */}
 				<div>
 					<label htmlFor="status" className="mb-2 block text-sm font-medium">
 						Set the invoice status
